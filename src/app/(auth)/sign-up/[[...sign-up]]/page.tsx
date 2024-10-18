@@ -21,8 +21,8 @@ export default function Page() {
           </ClerkLoading>
         </div>
       </div>
-      <div className="h-full bg-green-300 hidden lg:flex items-center justify-center">
-        <Image src="/images/acc_logo.png" alt="logo" width={200} height={200} />
+      <div className="h-full bg-[#eef3ff] hidden lg:flex items-center justify-center">
+        <Image src="/images/acc_logo.png" alt="logo" width={600} height={600} />
       </div>
     </div>
   );
