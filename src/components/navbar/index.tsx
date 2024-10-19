@@ -5,7 +5,7 @@ import React from "react";
 
 const Navbar: React.FC = () => {
   return (
-    <nav className="bg-[#7ca1f7] text-white px-20 py-40 ">
+    <nav className="bg-gradient-to-b from-[#4b81e7] to-[#7ca1f7] text-white px-20 py-40">
       <div className="flex justify-between items-center mt-[-140px]">
         <div>
           <Link href="/">
